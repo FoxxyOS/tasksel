@@ -1,0 +1,14 @@
+Task: foxxy-cloud
+Relevance: 2
+Parent: foxxy
+Section: user
+Test-foxxy: 3
+Description: Foxxy Cloud
+ This task provides all the necessary packages to
+ configure a Foxxy Cloud environment 
+Key:
+ foxxy-tools-cloud
+Packages: list
+ foxxy-cloud
+ foxxy-tools-cloud
+ 

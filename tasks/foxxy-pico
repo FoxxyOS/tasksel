@@ -1,0 +1,12 @@
+Task: foxxy-pico
+Relevance: 3
+Parent: foxxy
+Section: user
+Test-foxxy: 3
+Description: Pico Tools
+ This task installs a very restricted set of tools
+ for embedded devices and space constrained systems.
+Key:
+ foxxy-pico
+Packages: list
+ foxxy-pico

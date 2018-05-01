@@ -1,0 +1,11 @@
+Task: foxxy
+Relevance: 1
+Section: user
+Test-foxxy: 2
+Description: Foxxy System
+ This is a key task to install a Foxxy core system.
+Key:
+ foxxy-core
+Packages: list
+ apt-foxxy
+ foxxy-core

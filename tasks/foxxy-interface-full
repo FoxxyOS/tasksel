@@ -1,0 +1,13 @@
+Task: foxxy-interface-full
+Relevance: 3
+Parent: foxxy
+Section: user
+Test-foxxy: 3
+Description: Full Interface
+ This task provides a variety of useful graphical applications
+ suitable for a daily use.
+Key:
+ foxxy-interface-full
+Packages: list
+ foxxy-interface-full
+ libreoffice

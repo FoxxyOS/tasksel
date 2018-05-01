@@ -1,0 +1,11 @@
+Task: foxxy-crypto
+Relevance: 3
+Parent: foxxy
+Section: user
+Test-foxxy: 3
+Description: Encryption tools
+ This task installs cryptographic tools
+Key:
+ foxxy-crypto
+Packages: list
+ foxxy-crypto

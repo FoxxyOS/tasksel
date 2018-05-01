@@ -1,0 +1,12 @@
+Task: foxxy-tools
+Relevance: 2
+Parent: foxxy
+Section: user
+Test-foxxy: 3
+Description: Standard Tools
+ This task provides the standard set of foxxy tools
+ it is an accurately selected of must-have pentesting tools.
+Key:
+ foxxy-tools
+Packages: list
+ foxxy-tools

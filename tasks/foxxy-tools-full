@@ -1,0 +1,12 @@
+Task: foxxy-tools-full
+Relevance: 2
+Parent: foxxy
+Section: user
+Test-foxxy: 3
+Description: Full Tools
+ This task provides the full and complete Foxxy pentesting environment
+ with almost all the tools provided by the foxxy repository.
+Key:
+ foxxy-tools-full
+Packages: list
+ foxxy-tools-full

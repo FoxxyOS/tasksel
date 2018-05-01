@@ -1,0 +1,11 @@
+Task: foxxy-mini
+Relevance: 3
+Parent: foxxy
+Section: user
+Test-foxxy: 3
+Description: Mini Tools
+ This task installs a minimal set of pentesting tools
+Key:
+ foxxy-mini
+Packages: list
+ foxxy-mini
